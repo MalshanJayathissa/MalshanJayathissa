@@ -1,4 +1,4 @@
-Hi there, I'm Dileepa Malshan! 👋
+Hi there, I'm Malshan Jayathissa! 👋
 
 About Me
 
