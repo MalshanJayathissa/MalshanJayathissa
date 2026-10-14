@@ -1,19 +1,64 @@
-Hi there, I'm Malshan Jayathissa! 👋
+<h1 align="center">Hi, I'm Malshan Jayathissa 👋</h1>
 
-About Me
+<p align="center">
+  <strong>Data Science Undergraduate | Aspiring Data Scientist | Software & Web Development Enthusiast</strong>
+</p>
 
-🔭 I’m currently working on: Enhancing my skills in data science and web development.
+<p align="center">
+  Building practical solutions with data, code, and curiosity.
+</p>
 
-🌱 I’m currently learning: Data Science (degree program), Python, Java, JavaScript, and MySQL.
+<p align="center">
+  <a href="https://www.linkedin.com/in/malshan-jayathissa">LinkedIn</a> •
+  <a href="https://github.com/MalshanJayathissa?tab=repositories">Projects</a>
+</p>
 
-👯 I’m looking to collaborate on: Projects related to data analysis, machine learning, and modern web applications.
+---
 
-🤔 I’m looking for help with: Expanding my expertise in advanced data science techniques and full-stack development.
+### About Me
 
-💬 Ask me about: Programming languages, data science concepts, or anything related to the areas I'm exploring.
+I'm a Data Science undergraduate interested in transforming data into useful insights and building applications that solve real-world problems. My work and learning span **data analysis, machine learning, software development, and web technologies**.
 
-📫 How to reach me: Linkedin (https://www.linkedin.com/in/malshan-jayathissa)
+- 🎓 Studying **Data Science**
+- 🔍 Interested in **predictive analytics, machine learning, and applied data projects**
+- 💻 Building and exploring projects using **Python, Java, JavaScript, PHP, and MySQL**
+- 🌱 Continuously improving my skills in **end-to-end data workflows and full-stack development**
+- 🤝 Open to collaborating on **data-driven and software development projects**
 
-😄 Pronouns: he/him
+### Technical Skills
 
-⚡ Fun fact: I enjoy exploring new technologies and pushing myself to learn and grow in the tech world.
+| Area | Technologies & Tools |
+| --- | --- |
+| Programming | Python, Java, JavaScript, PHP |
+| Data & Databases | SQL, MySQL, data analysis |
+| Web Development | HTML, CSS, Bootstrap |
+| Other Interests | Machine learning, predictive modeling, Java Swing |
+
+### Selected Projects
+
+| Project | Focus |
+| --- | --- |
+| [Predicting Climate-Driven Cereal Yield Anomalies Across European Countries](https://github.com/MalshanJayathissa/Predicting-Climate-Driven-Cereal-Yield-Anomalies-Across-European-Countries) | Climate and agricultural data analysis |
+| [YouTube App Review Sentiment Analysis](https://github.com/MalshanJayathissa/YouTube-App-Review-Sentiment-Analysis) | Text analysis and sentiment classification |
+| [Student Academic Performance Analysis](https://github.com/MalshanJayathissa/student-academic-performance-analysis) | Education-related data analysis |
+| [Traffic Fine Management System](https://github.com/MalshanJayathissa/traffic-fine-management-system) | Software system development |
+| [Ali Traders Wedding Suit Rental](https://github.com/MalshanJayathissa/ali-traders-wedding-suit-rental) | PHP/MySQL web application with Java Swing administration |
+
+Explore more of my work in my [GitHub repositories](https://github.com/MalshanJayathissa?tab=repositories).
+
+### Currently Exploring
+
+- Practical machine learning workflows and model evaluation
+- Data storytelling and visualization
+- Database-backed web applications
+- Writing maintainable, well-documented code
+
+### Connect With Me
+
+I'm interested in learning from others, collaborating on meaningful projects, and discussing data science and software development.
+
+📫 **LinkedIn:** [malshan-jayathissa](https://www.linkedin.com/in/malshan-jayathissa)
+
+---
+
+<p align="center"><em>Thanks for visiting my profile!</em></p>
